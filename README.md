@@ -12,3 +12,6 @@ Let's GO
 
 # 2023-11-18
 - "Keep it simple, stupid!"
+
+# 2023-11-19
+- "Today's programming wisdom is to focus on writing clean, maintainable, and modular code. It's important to consider not only the functionality of your program but also its readability and extensibility. Remember that you may not be the only one who will need to work with this code in the future, so strive to make it as easy to understand and modify as possible. Use clear and descriptive variable names, break your code into small, well-defined functions, and document your code thoroughly. By following these principles, you'll create code that is not only functional but also flexible and scalable, making it easier to adapt to changing requirements or new features."
