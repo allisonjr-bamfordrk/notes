@@ -32,3 +32,6 @@ Remember to take breaks throughout the day to clear your mind and recharge. Addi
 
 Second, planning ahead is crucial for success. Think about the bigger picture and how your current work fits into it. Break down larger projects into smaller, manageable tasks. Then, allocate time for each task and make sure you have the resources needed to complete them. Planning ahead will prevent you from getting stuck without a clear path forward. 
  - 来自NLP
+
+# 2023-11-24
+- "Keep it simple, stupid!"
