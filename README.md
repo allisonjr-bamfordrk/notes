@@ -75,3 +75,8 @@ First, prioritize your tasks. When you're working on a project, there will alway
 
 One of most important aspects of programming is problem-solving. When faced with a challenging problem, take a step back, break it down into smaller components, and analyze each part individually. By approaching problems methodically, you' ll be able to find creative solutions and develop a deeper understanding of how different programming concepts work together. 
  2. Write clean, concise,and modular code. Following best practices in coding will make your code easier to understand and maintain. Use well-structured comments and documentation to explain your intentions and code logic, making it easier for others to contribute to and work with your project.
+
+# 2023-12-04
+- Today's programming wisdom is: "Premature optimization is the root of all evil." - Donald Knuth. 
+
+This quote reminds us that optimizing code before it's necessary can lead to unnecessary complexity and bugs. It's better to write clear, simple code first and optimize only when needed.
