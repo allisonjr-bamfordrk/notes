@@ -100,3 +100,10 @@ Optimizing code before it's necessary can lead to complex and hard-to-maintain c
 
 # 2023-12-10
 - Today's programming wisdom is to write code that is simple, readable, and maintainable. Code should be written with the understanding that it will be read and modified by others in the future. It is important to use clear and concise variable names, write comments to explain complex logic, and adhere to consistent coding standards. Additionally, it is essential to test code thoroughly to ensure it functions as intended and to catch bugs early on. Remember, programming is not just about writing code that works, but also about writing code that can be easily understood and maintained by others.
+
+# 2023-12-11
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you are working on a project, there will always be multiple things that need to get done. By prioritizing your task list, you can make sure that you focus on the most important tasks first. You can use techniques like the Eisenhower Matrix to help determine the priority of your duties. The Eisenheimer Matrix groups tasks into four categories: urgent and important, urgent but not important (such as responding to emails), not urgent, but important(suchas learning new skills), and not urgently important.By prioritzing your work,you can focuson the tasks that will have the greatest impact on your project. 
+ 其次，提前计划。在开始一个项目之前，先制定一个详细的计划，包括任务分解、时间表和预期结果。这将帮助你在项目进行过程中保持专注，并确保你不会错过任何重要的任务。使用项目管理工具，如Trello或Asana，可以帮助你更好地组织和跟踪你的任务进度。
+ 最后，保持组织。一个干净、有组织的代码库和工作环境可以提高你的工作效率。定期整理你的代码，删除不再需要的文件，确保你的项目结构清晰。此外，使用版本控制系统，如同源代码管理工具（Git），可以帮助你更好地跟踪代码更改，并在需要时轻松地回滚到之前的版本。 总之，通过优先处理任务、提前计划和保持有组织，你可以成为一名更高效的程序员。
