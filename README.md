@@ -107,3 +107,8 @@ Optimizing code before it's necessary can lead to complex and hard-to-maintain c
 First, prioritize your tasks. When you are working on a project, there will always be multiple things that need to get done. By prioritizing your task list, you can make sure that you focus on the most important tasks first. You can use techniques like the Eisenhower Matrix to help determine the priority of your duties. The Eisenheimer Matrix groups tasks into four categories: urgent and important, urgent but not important (such as responding to emails), not urgent, but important(suchas learning new skills), and not urgently important.By prioritzing your work,you can focuson the tasks that will have the greatest impact on your project. 
  其次，提前计划。在开始一个项目之前，先制定一个详细的计划，包括任务分解、时间表和预期结果。这将帮助你在项目进行过程中保持专注，并确保你不会错过任何重要的任务。使用项目管理工具，如Trello或Asana，可以帮助你更好地组织和跟踪你的任务进度。
  最后，保持组织。一个干净、有组织的代码库和工作环境可以提高你的工作效率。定期整理你的代码，删除不再需要的文件，确保你的项目结构清晰。此外，使用版本控制系统，如同源代码管理工具（Git），可以帮助你更好地跟踪代码更改，并在需要时轻松地回滚到之前的版本。 总之，通过优先处理任务、提前计划和保持有组织，你可以成为一名更高效的程序员。
+
+# 2023-12-12
+- Today's programming wisdom is: "Premature optimization is the root of all evil" - Donald Knuth. 
+
+This quote reminds us that while optimizing code for efficiency is important, it should not be done too early in the development process. Spending too much time on optimizing code before it is necessary can lead to wasted effort and potentially introduce bugs or make the code more difficult to maintain. It's better to write clear and simple code first, and then optimize only when needed and after profiling has identified performance bottlenecks.
