@@ -281,3 +281,6 @@ In essence, clarity and simplicity lead to robustness and efficiency in the long
 
 Second, always plan beforehand. When starting a new project or working on a complex task, create a plan with a timeline and break it down into smaller, manageable steps. Having a clear plan will keep you focused and on track, making it easier to stay efficient. Planning also helps you identify potential obstacles and find solutions before they become problems. 
  - 来自NLP
+
+# 2024-01-20
+- Today's programming wisdom is: "Premature optimization is the root of all evil" - Sir Tony Hoare. This quote reminds us that focusing on optimizing code too early in the development process can lead to unnecessary complexity, harder maintenance, and potential bugs. Instead, it's wiser to first ensure the code is correct, clear, and functional, and only optimize when there's concrete evidence that a specific part of the codebase is causing a performance bottleneck. The essence of this wisdom is about balance and making informed decisions based on data, not assumptions.
