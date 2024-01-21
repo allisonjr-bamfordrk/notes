@@ -284,3 +284,6 @@ Second, always plan beforehand. When starting a new project or working on a comp
 
 # 2024-01-20
 - Today's programming wisdom is: "Premature optimization is the root of all evil" - Sir Tony Hoare. This quote reminds us that focusing on optimizing code too early in the development process can lead to unnecessary complexity, harder maintenance, and potential bugs. Instead, it's wiser to first ensure the code is correct, clear, and functional, and only optimize when there's concrete evidence that a specific part of the codebase is causing a performance bottleneck. The essence of this wisdom is about balance and making informed decisions based on data, not assumptions.
+
+# 2024-01-21
+- "Keep it simple, stupid!"
