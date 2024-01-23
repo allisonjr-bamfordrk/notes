@@ -297,3 +297,6 @@ Second, always plan beforehand. When starting a new project or working on a comp
 4. Code regularly: Keep your programming skills sharp by regularly coding and practicing new techniques. Even if you don' t have a specific project in mind, writing code every day will improve your understanding and proficiency in your chosen programming language.   
 5. Attend conferences and workshops: Attend tech conferences, meetups, workshops, etc. to network with other professionals inyour field and learn from their experiences and knowledge. These events can provide valuable insights and connections that can help your career grow.    
 6. Seek feedback and critique: Ask for feedback on your code and projects from peers and mentors to identify areas for improvement and growth. Critique others' work as well to gain a deeper understandingof programming concepts and best practices.
+
+# 2024-01-23
+- "Keep it simple, stupid!"
