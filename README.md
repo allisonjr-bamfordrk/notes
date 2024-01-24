@@ -300,3 +300,8 @@ Second, always plan beforehand. When starting a new project or working on a comp
 
 # 2024-01-23
 - "Keep it simple, stupid!"
+
+# 2024-01-24
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' - Leonardo da Vinci. In coding, strive to write clean, maintainable code that's easy to understand and modify. Avoid unnecessary complexity; it often leads to bugs, harder debugging, and less collaboration. Remember, you're not just writing code for the computer to execute but also for humans to read and comprehend. The best solutions are often those that elegantly solve a problem with the least amount of code." 
+
+"Also, 'Premature optimization is the root of all evil (or at least most of it) in programming.' - Donald Knuth. Focus on making your code correct first, then optimize if and where performance measurements indicate the need. Always balance between efficiency and readability, because over-optimized code can be hard to maintain and extend."
